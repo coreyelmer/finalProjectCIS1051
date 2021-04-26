@@ -19,4 +19,6 @@ Chance to win $1,000,000!!!!!!!
 
 URL: https://youtu.be/lW1_F_7EmDc
 
+NOTICE ABOUT VIDEO: First two minutes of video is general overview. The rest of the video is a walkthrough of the code I wanted to upload to Youtube.
+
 
