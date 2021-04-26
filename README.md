@@ -1,4 +1,4 @@
-# finalProjectCIS1051
+# Will You Survive?
 This is my final project for CIS 1051.
 
 Two people eliminated after every challenge
